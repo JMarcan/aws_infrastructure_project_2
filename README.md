@@ -1,1 +1,1 @@
-# aws_infrastructure_project_2
+# aws_infrastructure_social_media_app
